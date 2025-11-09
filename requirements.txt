@@ -1,0 +1,6 @@
+huggingface_hub
+langchain
+langchain_community
+llama_cpp
+pandas
+tiktoken
